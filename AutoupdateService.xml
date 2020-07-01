@@ -2,5 +2,5 @@
 <item>
     <version>0.0.2.0</version>
     <url>https://github.com/Anson12666/HALL_MEDIA_PLAYER/releases/download/0.0.1.0/HALL_MEDIA_PLAYER.exe</url>
-    <mandatory>true</mandatory>
+    <mandatory mode="2">true</mandatory>
 </item>
