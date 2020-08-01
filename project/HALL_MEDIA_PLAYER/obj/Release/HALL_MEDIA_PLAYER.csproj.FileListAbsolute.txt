@@ -1,0 +1,15 @@
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\bin\Release\HALL_MEDIA_PLAYER.exe.config
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\bin\Release\HALL_MEDIA_PLAYER.exe
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\bin\Release\HALL_MEDIA_PLAYER.pdb
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\bin\Release\AutoUpdater.NET.dll
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\bin\Release\AutoUpdater.NET.pdb
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\bin\Release\AutoUpdater.NET.xml
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.csprojAssemblyReference.cache
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.IntroPage.resources
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.PlayerMenu.resources
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.Properties.Resources.resources
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.csproj.GenerateResource.cache
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.csproj.CoreCompileInputs.cache
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.csproj.CopyComplete
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.exe
+C:\Users\anson\source\repos\HALL_MEDIA_PLAYER\HALL_MEDIA_PLAYER\obj\Release\HALL_MEDIA_PLAYER.pdb
